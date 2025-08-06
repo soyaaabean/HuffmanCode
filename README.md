@@ -21,7 +21,7 @@ This project implements Huffman coding to compress a set of characters based on 
 2. Run the script using Python 3:
 
 ```
-python huffman_coding.py
+python huffmanCode.py
 ```
 
 3. The output will display in the terminal.
